@@ -1,0 +1,12 @@
+[server]
+enableCORS = false
+enableXsrfProtection = false
+
+[theme]
+primaryColor = "#1f77b4"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#272b34"
+textColor = "#fafafa"
+
+[runner]
+pythonVersion = "3.9" 
